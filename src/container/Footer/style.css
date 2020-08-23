@@ -1,0 +1,12 @@
+.footer-main
+{
+    color: beige;
+    background: linear-gradient(180deg, rgb(49, 41, 211) 0%, rgb(74, 74, 223) 35%, rgb(132, 229, 248) 100%);
+    padding: 50px;
+}
+
+.footer
+{
+    text-align: center;
+    font-size: 20px;
+}

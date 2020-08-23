@@ -1,0 +1,49 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main-pass
+{
+    background: rgb(222, 228, 228);
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, .2);
+    max-width: 100%;
+    width: 1000px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 60px;
+    margin-bottom: 50px;
+    padding: 30px;
+    color: white;
+    text-align-last: left;
+}
+
+
+.main-pass h4
+{
+    color: blueviolet;
+}
+
+.main-pass p
+{
+    color: black;
+}
+
+.main-pass pre
+{
+    border: 1px solid black;
+    width: 700px;
+    padding: 20px;
+    background-color: rgb(182, 171, 171);
+    color: black;
+}
+
+.main-pass h3
+{
+    color: black;
+}
